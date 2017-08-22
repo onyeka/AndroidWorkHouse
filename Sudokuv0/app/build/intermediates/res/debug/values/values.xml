@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/onyekaigabari/AndroidstudioProjects/Sudokuv0/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">Sudoku</string>
+    <string name="hello">Hello World, Sudoku</string>
+
+</resources>
